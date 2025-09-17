@@ -1,0 +1,13 @@
+{
+    "eslint.workingDirectories": [{ "mode": "auto" }],
+    "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+  
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "never"
+    },
+  
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "files.eol": "\n"
+  }
+  
